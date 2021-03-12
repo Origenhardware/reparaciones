@@ -1,2 +1,0 @@
-# reparaciones
-Pagina de testeo
